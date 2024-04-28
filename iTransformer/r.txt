@@ -1,0 +1,6 @@
+beartype
+einops>=0.7.0
+gateloop-transformer>=0.2.3
+rotary-embedding-torch
+torch>=2.1
+
